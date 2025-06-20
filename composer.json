@@ -1,0 +1,15 @@
+{
+  "name": "ltn/news_api",
+  "autoload": {
+    "psr-4": {
+      "NewsApi\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Chris",
+      "email": "73567689+ChaiChris@users.noreply.github.com"
+    }
+  ],
+  "require": {}
+}
