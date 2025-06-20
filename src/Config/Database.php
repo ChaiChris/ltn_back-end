@@ -8,7 +8,7 @@ class Database {
     private function __construct() {
         // 資料庫設定，需修改以符合環境
         $host = 'localhost';
-        $dbname = 'news_ltn';
+        $dbname = 'news_db';
         $user = 'news3';
         $password = '123456';
 
